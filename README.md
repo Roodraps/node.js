@@ -1,4 +1,4 @@
-# node.js
+# node.js Installation
 
 Step 1: Install Node.js
 Download: I visited the official Node.js website and downloaded the appropriate installer for my OS.
@@ -21,7 +21,7 @@ Like I have started learning javascript concepts that would use In the node.js
 
 
 # Important libraries
-##Express.js:
+## Express.js:
 Command: npm install express
 Description: Fast, unopinionated, minimalist web framework for Node.js. It provides a robust set of features for web and mobile applications.
 
@@ -32,6 +32,14 @@ Description: Real-time bidirectional event-based communication library for web a
 ## Mongoose:
 Command: npm install mongoose
 Description: Elegant MongoDB object modeling for Node.js. It provides a straight-forward, schema-based solution to model application data.
+
+## Async:
+Command: npm install async
+Description: A utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript.
+
+## Axios:
+Command: npm install axios
+Description: Promise-based HTTP client for the browser and Node.js. It supports the Promise API and interceptors, making it easy to write asynchronous code for making HTTP requests.
 
 
 
