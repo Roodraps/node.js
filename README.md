@@ -20,4 +20,19 @@ console.log("Hii Roodra here , started learning node.js");
 Like I have started learning javascript concepts that would use In the node.js
 
 
+# Important libraries
+##Express.js:
+Command: npm install express
+Description: Fast, unopinionated, minimalist web framework for Node.js. It provides a robust set of features for web and mobile applications.
+
+## Socket.io:
+Command: npm install socket.io
+Description: Real-time bidirectional event-based communication library for web applications. It enables real-time, secure, and scalable communication between web clients and servers.
+
+## Mongoose:
+Command: npm install mongoose
+Description: Elegant MongoDB object modeling for Node.js. It provides a straight-forward, schema-based solution to model application data.
+
+
+
 
