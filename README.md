@@ -15,6 +15,8 @@ Navigate: I Use the terminal/command prompt to navigate to the project directory
 Step 3: Start writting my code
 Create File: Inside my project i creaated directory, named app.js.
 
+console.log("Hii Roodra here , started learning node.js");
+
 Like I have started learning javascript concepts that would use In the node.js
 
 
